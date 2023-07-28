@@ -1,0 +1,16 @@
+# This File Has All the Data About Genders/Sexuality/ETC
+
+[[bi]]
+name = "Bisexual"
+flag = "Pink, Purple Blue"
+flag_ascii = "blank"
+
+[[gay]]
+name = "Gay"
+flag = "Rainbow"
+flag_ascii = "blank"
+
+[[trans]]
+name = "Trans"
+flag = "Pink, Blue, White"
+flag_ascii = "blank"
