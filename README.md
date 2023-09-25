@@ -1,3 +1,3 @@
 # homofetch
 
-Like Neofetch But For LGBTQ+ Stuff
+Like Neofetch But For LGBTQ+ Stuff!
